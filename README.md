@@ -1,11 +1,3 @@
- Hacker
-Özel Gem
-
-Harika bir fikir! Bu scripti GitHub'a yüklemek, hem toplulukla paylaşmak hem de projeni profesyonel bir şekilde sunmak için mükemmel bir adım. GitHub kültürü, net, özlü ve bilgilendirici README dosyalarını sever.
-
-Aşağıda hem Türkçe hem de İngilizce versiyonlarını, GitHub'ın en iyi uygulamalarına uygun, profesyonel ve detaylı bir şekilde hazırladım. Bu README dosyalarını doğrudan kopyalayıp projenizin ana dizinine (root folder) yapıştırabilirsin.
-Punycode / Homograph URL Generator
-Türkçe README.md
 Punycode / Homograph URL Üretici
 
 Bu Python scripti, hedef bir alan adı (domain) için kapsamlı bir URL listesi oluşturur. Bu liste, Punycode ve Homograph tekniklerini kullanarak yaygın olarak bilinen hassas yolları (paths), API uç noktalarını ve alt alan adlarını (subdomains) hedef alarak oluşturulur. Amaç, web uygulamalarının URL işleme ve normalizasyon mekanizmalarındaki potansiyel güvenlik açıklarını tespit etmektir. Özellikle, güvenlik filtrelerini atlatabilecek veya mantıksal hatalara yol açabilecek senaryoları bulmak hedeflenir.
@@ -70,7 +62,9 @@ Geliştirmelere ve katkılara açığız! Eğer daha fazla hassas path, subdomai
 Yasal Uyarı
 
 Bu araç yalnızca etik ve yasal güvenlik testleri (örneğin, onaylanmış Bug Bounty programları veya kendi sistemleriniz) için tasarlanmıştır. Bu aracın kötüye kullanımı kesinlikle tavsiye edilmez ve tüm sorumluluk kullanıcıya aittir.
-English README.md
+
+
+
 Punycode / Homograph URL Generator
 
 This Python script generates a comprehensive list of URLs for a given target domain. This list is crafted by combining commonly known sensitive paths, API endpoints, and subdomains, with variations created using Punycode and Homograph techniques. The primary goal is to identify potential security vulnerabilities in web applications related to URL processing and normalization mechanisms, specifically targeting scenarios that could bypass security filters or lead to logical flaws.
